@@ -16,6 +16,12 @@
 - **センシング / Sensing** — mmWave radar signal processing
 - **自動運転 / Autonomous Driving** — system design & requirements
 
+### 関心領域 / Interests
+
+- **ロボティクス・制御理論 / Robotics & Control Theory** — 受動歩行（passive dynamic walking）に代表される、動力学に根ざした制御への関心。車載制御の基盤にもつながるテーマとして継続的に取り組んでいます。
+
+  *A lasting interest in dynamics-grounded control — exemplified by passive dynamic walking — which also underpins my work in automotive control.*
+
 ### 資格 / Certification
 
 - **TÜV SÜD Functional Safety Professional (FSP)**
