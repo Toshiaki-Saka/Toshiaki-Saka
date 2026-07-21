@@ -24,7 +24,7 @@
 
 - 車載組込みソフトウェア・システム開発 25年以上 / 25+ years in automotive embedded software & systems
 - 外資系企業での実務経験 15年（英語での業務遂行）/ 15 years at foreign-affiliated companies (working proficiency in English)
-- 修士（情報科学）北陸先端科学技術大学院大学 (JAIST), 2015 / M.S., Japan Advanced Institute of Science and Technology (JAIST), 2015
+- 修士（情報科学）北陸先端科学技術大学院大学 (JAIST), 2015 — 受動歩行ロボットの研究 / M.S., Japan Advanced Institute of Science and Technology (JAIST), 2015 — research on passive dynamic walking robots
 
 ---
 
