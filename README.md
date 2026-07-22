@@ -15,16 +15,13 @@
 - **車載制御 / Automotive Control** — EPS motor control (Electric Power Steering)
 - **センシング / Sensing** — mmWave radar signal processing
 - **自動運転 / Autonomous Driving** — system design & requirements
+- **ロボティクス / Robotics** — 多体動力学、動的歩行、制御理論 / multibody dynamics, dynamic walking, control theory
 
 ### 関心領域 / Interests
 
 - **End-to-End 制御 / End-to-End Control** — センサーフュージョンと多物体追跡（MOT）を軸に、認識から制御までを一気通貫で捉えるアプローチを探究しています。自動運転を主な対象としつつ、ロボットへの応用も視野に入れています。KITTIデータセットを用いた実装を通じて検証中。
 
   *Exploring end-to-end approaches from perception to control, centered on sensor fusion and multi-object tracking (MOT) — primarily for autonomous driving, with an eye toward robotics applications. Validated on the KITTI dataset.*
-
-- **ロボティクス・制御理論 / Robotics & Control Theory** — 受動歩行（passive dynamic walking）に代表される、動力学に根ざした制御への関心。車載制御の基盤にもつながるテーマとして継続的に取り組んでいます。
-
-  *A lasting interest in dynamics-grounded control — exemplified by passive dynamic walking — which also underpins my work in automotive control.*
 
 ### 資格 / Certification
 
@@ -39,3 +36,4 @@
 ---
 
 <sub>📍 Ibaraki, Japan · [github.com/Toshiaki-Saka](https://github.com/Toshiaki-Saka)</sub>
+
